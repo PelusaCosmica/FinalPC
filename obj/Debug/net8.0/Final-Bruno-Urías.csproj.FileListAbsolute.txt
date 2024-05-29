@@ -1,0 +1,14 @@
+D:\Programación\Final-Bruno-Urías\bin\Debug\net8.0\Final-Bruno-Urías.exe
+D:\Programación\Final-Bruno-Urías\bin\Debug\net8.0\Final-Bruno-Urías.deps.json
+D:\Programación\Final-Bruno-Urías\bin\Debug\net8.0\Final-Bruno-Urías.runtimeconfig.json
+D:\Programación\Final-Bruno-Urías\bin\Debug\net8.0\Final-Bruno-Urías.dll
+D:\Programación\Final-Bruno-Urías\bin\Debug\net8.0\Final-Bruno-Urías.pdb
+D:\Programación\Final-Bruno-Urías\obj\Debug\net8.0\Final-Bruno-Urías.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programación\Final-Bruno-Urías\obj\Debug\net8.0\Final-Bruno-Urías.AssemblyInfoInputs.cache
+D:\Programación\Final-Bruno-Urías\obj\Debug\net8.0\Final-Bruno-Urías.AssemblyInfo.cs
+D:\Programación\Final-Bruno-Urías\obj\Debug\net8.0\Final-Bruno-Urías.csproj.CoreCompileInputs.cache
+D:\Programación\Final-Bruno-Urías\obj\Debug\net8.0\Final-Bruno-Urías.dll
+D:\Programación\Final-Bruno-Urías\obj\Debug\net8.0\refint\Final-Bruno-Urías.dll
+D:\Programación\Final-Bruno-Urías\obj\Debug\net8.0\Final-Bruno-Urías.pdb
+D:\Programación\Final-Bruno-Urías\obj\Debug\net8.0\Final-Bruno-Urías.genruntimeconfig.cache
+D:\Programación\Final-Bruno-Urías\obj\Debug\net8.0\ref\Final-Bruno-Urías.dll
